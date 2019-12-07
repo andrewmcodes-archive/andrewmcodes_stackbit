@@ -1,18 +1,13 @@
 ---
-title: About Us
-subtitle: This is a short page about us and our work.
-img_path: images/about.jpg
+title: About Me
+subtitle: .
+img_path: ''
 menus:
   main:
-    title: About
+    title: ''
     weight: 4
 template: page
 ---
+Andrew Mason is a full-stack engineer who specializes on web application development with Ruby on Rails. He currently works for CodeFund, where he is responsible for managing the development team’s focus and managing the open source repository. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
-
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
-
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
-
-*Thank You for reading!*
+Andrew loves open source and is consistently contributing to projects or creating his own libraries. When he isn’t coding, you can find him podcasting or surfing in Wilmington, NC.
