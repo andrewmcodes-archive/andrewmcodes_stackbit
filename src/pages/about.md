@@ -1,6 +1,6 @@
 ---
-title: About Me
-subtitle: .
+title: About
+subtitle: ''
 img_path: ''
 menus:
   main:
@@ -8,6 +8,6 @@ menus:
     weight: 4
 template: page
 ---
-Andrew Mason is a full-stack engineer who specializes on web application development with Ruby on Rails. He currently works for CodeFund, where he is responsible for managing the development team’s focus and managing the open source repository. 
+Andrew Mason is a full-stack engineer who specializes on web application development with Ruby on Rails. He currently works for [CodeFund](https://codefund.io/), where he is responsible for managing the development team’s focus and managing the open source repository. 
 
-Andrew loves open source and is consistently contributing to projects or creating his own libraries. When he isn’t coding, you can find him podcasting or surfing in Wilmington, NC.
+Andrew loves open source and is consistently contributing to projects or creating his own libraries. When he isn’t coding, you can find him podcasting, attending conferences, or surfing in Wilmington, NC.
