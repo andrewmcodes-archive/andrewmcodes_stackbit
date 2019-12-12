@@ -4,7 +4,7 @@ sections:
   - component: HeroBlock
     content: I'm a full-stack software engineer who builds things with Ruby.
     section_id: hero
-    title: 'Hi, I''m Andrew.'
+    title: "Hi, I'm Andrew."
     type: heroblock
   - component: PortfolioBlock
     layout_style: mosaic
@@ -35,4 +35,3 @@ menus:
     weight: 1
 template: home
 ---
-
