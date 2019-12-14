@@ -33,4 +33,6 @@ window.onGatsbyRouteUpdate = function() {
       true
     )
   }
+  // Syntax Highlighter
+  Prism.highlightAll();
 }

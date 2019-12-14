@@ -95,14 +95,14 @@ This should create a `tailwind.config.js` file at the root of your project. This
 
 Next, add the following two lines to `postcss.config.js`
 
-```j
+```js
 require('tailwindcss'),
 require('autoprefixer'),
 ```
 
 Your `postcss.config.js` file should now look like this:
 
-```j
+```js
 module.exports = {
   plugins: [
     require('autoprefixer'),
