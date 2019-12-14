@@ -13,6 +13,7 @@ exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
   setPostBodyComponents([
     <React.Fragment>
       <script src={safePrefix("assets/js/plugins.js")} />
+      <script src={safePrefix('assets/js/prism.js')} data-manual/>
       <script src={safePrefix("assets/js/main.js")} />
     </React.Fragment>,
   ])
