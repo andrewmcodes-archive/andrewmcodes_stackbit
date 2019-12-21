@@ -29,6 +29,12 @@ module.exports = {
       options: {},
     },
     {
+      resolve: `@codefund/gatsby-plugin`,
+      options: {
+        propertyId: "638",
+      },
+    },
+    {
       resolve: `@stackbit/gatsby-plugin-menus`,
       options: {
         sourceUrlPath: `fields.url`,
