@@ -11,6 +11,7 @@
     "format": "prettier --write \"**/*.{js,jsx,json,md}\""
   },
   "dependencies": {
+    "@codefund/gatsby-plugin": "https://github.com/andrewmcodes/codefund-gatsby-plugin",
     "@stackbit/gatsby-plugin-menus": "0.0.4",
     "classnames": "^2.2.6",
     "fs-extra": "^7.0.1",

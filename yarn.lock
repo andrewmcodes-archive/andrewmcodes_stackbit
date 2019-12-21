@@ -791,6 +791,10 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
+"@codefund/gatsby-plugin@https://github.com/andrewmcodes/codefund-gatsby-plugin":
+  version "0.0.1"
+  resolved "https://github.com/andrewmcodes/codefund-gatsby-plugin#55a4aafbd4a52c83901a6f4e33b34bd90f2f8f0a"
+
 "@hapi/address@2.x.x":
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/@hapi/address/-/address-2.1.4.tgz#5d67ed43f3fd41a69d4b9ff7b56e7c0d1d0a81e5"
