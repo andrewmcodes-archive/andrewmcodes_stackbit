@@ -3,12 +3,14 @@ import _ from "lodash"
 
 import { htmlToReact, Link } from "../utils"
 import Social from "./Social"
+import { CodeFund } from "@codefund/gatsby-plugin"
 
 export default class Footer extends React.Component {
   render() {
     return (
       <footer id="colophon" className="site-footer outer">
         <div className="inner">
+          <CodeFund />
           <div className="site-footer-inside">
             <p className="site-info">
               {htmlToReact(
